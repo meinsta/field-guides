@@ -1,0 +1,8 @@
+{"id": "security-review-guide",
+ "title": "Passing a Security Review With Quillfeather Dispatch",
+ "questions": [
+  {"q": "Can we rotate keys with zero downtime?"},
+  {"q": "Does driver data stay in the EU?"},
+  {"q": "Do webhook events arrive in order?"},
+  {"q": "Can we bring our own encryption keys?", "open": "No docs page covers customer-managed keys yet."}
+ ]}

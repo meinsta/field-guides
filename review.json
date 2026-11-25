@@ -1,0 +1,4 @@
+[
+ {"anchor": "never leaves the region",
+  "comment": "True for route and driver data. Do backups stay in the region too? Confirm with the platform team before we publish this."}
+]
